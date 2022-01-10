@@ -4,7 +4,7 @@ Takes an input of the currency to convert from, the currency to convert to and/o
 
 # Installation
 
-* Clone the repo via https://github.com/AliceStCheng/CurrencyConverter.git
+* <code>git clone https://github.com/AliceStCheng/CurrencyConverter.git</code>
 * <code>cd CurrencyConverter</code>
 * Activate virtual environment via <code>Scripts\activate.bat</code>
 * Install requirements.txt via <code>pip install -r requirements.txt</code>
